@@ -43,5 +43,5 @@ sudo pacman -S plasma-meta \
   lolcat \
   intel-ucode \
   qrca \
-  kcal \
+  kcalc \
   libreoffice-still-pt-br --noconfirm
