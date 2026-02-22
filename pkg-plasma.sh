@@ -13,14 +13,13 @@ sudo pacman -S plasma-meta \
   nodejs-lts-jod \
   wayland \
   xorg-xwayland \
-  kitty \
+  konsole \
   firefox-i18n-pt-br \
   git \
   wget \
   pipewire \
   pipewire-alsa \
   pipewire-pulse \
-  pavucontrol \
   mpv \
   fastfetch \
   reflector \
@@ -37,4 +36,12 @@ sudo pacman -S plasma-meta \
   ttf-jetbrains-mono-nerd \
   ttf-jetbrains-mono \
   dosfstools \
+  okular \
+  kdeconnect \
+  gwenview \
+  yt-dlp \
+  lolcat \
+  intel-ucode \
+  qrca \
+  kcal \
   libreoffice-still-pt-br --noconfirm
